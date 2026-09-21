@@ -21,7 +21,7 @@
     "WATCH_PATH": "/market-cycle",
     "CITY": "Montreal",
     "CARD": "watcher",
-    "ENVIRONMENT": "solution",
+    "ENVIRONMENT": "starter",
   },
   "observability": {
     "logs": { "enabled": true, "head_sampling_rate": 1 },
