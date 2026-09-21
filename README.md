@@ -1,6 +1,6 @@
 # Watcher Agent
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)]([CARD_5_DEPLOY_URL])
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/vnikhilbuddhavarapu/peer-point-card-5-watcher)
 
 Build an Agent that watches a rendered page, stores bounded snapshot metadata, detects meaningful changes without reacting to cosmetic churn, and emits one alert per transition.
 
